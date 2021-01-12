@@ -1,1 +1,12 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "fgh"
+    }
+  ],
+  "custom-object": {
+    "custom-text": "fg",
+    "custom-line": "fgh"
+  },
+  "custom-field": "dfgf"
+}
